@@ -6,7 +6,7 @@ import { fontSans } from "@/lib/fonts";
 import { cn } from "@/lib/utils";
 import { ThemeProvider } from "@/app/[locale]/components/theme-provider";
 import { SiteHeader } from "@/app/[locale]/components/site-header";
-import { SiteFooter } from "@/app/[locale]/components/site-footer";
+// import { SiteFooter } from "@/app/[locale]/components/site-footer";
 
 export const metadata: Metadata = {
   title: {
@@ -50,7 +50,7 @@ export default function RootLayout({
           <div className="relative flex min-h-screen flex-col bg-background">
             <SiteHeader locale={locale} />
             <main className="flex-1">{children}</main>
-            <SiteFooter />
+            {/* <SiteFooter /> */}
           </div>
         </ThemeProvider>
       </body>
