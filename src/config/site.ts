@@ -1,12 +1,5 @@
 export const siteConfig = {
-  name: "My CV",
-  url: "http://localhost:3000",
-  ogImage: "",
-  description: "",
-  links: {
-    twitter: "",
-    github: "",
-  },
+  url: "https://vitaly-vasilyev.vercel.app/",
 };
 
 export type SiteConfig = typeof siteConfig;

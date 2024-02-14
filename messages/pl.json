@@ -197,5 +197,16 @@
       "acceptButtonText": "Akceptuj wszystkie",
       "rejectButtonText": "Odrzuć wszystkie"
     }
+  },
+  "Metadata": {
+    "title": "Moje osobiste CV",
+    "siteUrl": "https://vitaly-vasilyev.vercel.app/",
+    "description": "",
+    "keywords": "Vitaly, Vasilyev, personal, work, engineering, aircraft",
+    "ogImage": "",
+    "links": {
+      "twitter": "",
+      "github": ""
+    }
   }
 }

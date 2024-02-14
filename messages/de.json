@@ -197,5 +197,16 @@
       "acceptButtonText": "Alle akzeptieren",
       "rejectButtonText": "Alles ablehnen"
     }
+  },
+  "Metadata": {
+    "title": "Meine persönliche Lebenslaufseite",
+    "siteUrl": "https://vitaly-vasilyev.vercel.app/",
+    "description": "",
+    "keywords": "Vitaly, Vasilyev, personal, work, engineering, aircraft",
+    "ogImage": "",
+    "links": {
+      "twitter": "",
+      "github": ""
+    }
   }
 }
